@@ -1,1 +1,1 @@
-web: gunicorn belly-scrub-92129.app:app
+web: python app.py
