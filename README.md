@@ -2,5 +2,7 @@ This is an interactive | full-stack dashboard app utilizing JavaScript, HTML, CS
 
 The app is available for general view: https://belly-scrub-92129.herokuapp.com/
 
+Heroku deployment was deployed through the github process (outlined on Heroku.com)
+
 Alternatively, the app can be viewed by a command line from this directory: 'python app.py' 
 and viewing output @ URL: http://127.0.0.1:5000/ 
